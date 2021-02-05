@@ -1,0 +1,24 @@
+{
+  "name": "sixcord.js",
+  "version": "1.0.0",
+  "description": "sixcordjs is a simple package module that helps developers at coding.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sixcordjs/sixcord.js.git"
+  },
+  "keywords": [
+    "sixcordjs",
+    "nodejs",
+    "node"
+  ],
+  "author": "v1dev <v1mxrc@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sixcordjs/sixcord.js/issues"
+  },
+  "homepage": "https://github.com/sixcordjs/sixcord.js#readme"
+}
